@@ -1,0 +1,1 @@
+To Get Categor List Working, Create New page with the name of Category List and set tempalte page to category list.
